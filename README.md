@@ -115,10 +115,12 @@ body {
 </html>
 ```
 ## OUTPUT:
-![OUTPUT](./Screenshot(12).png)
+![OUTPUT](![image](https://user-images.githubusercontent.com/118657189/213902704-970a2f2d-b4be-4e9f-bd1e-4ea591042956.png)
+
 
 ### Home Page:
-![Home Page](./Screenshot(11).png)
+![Home Page](![image](https://user-images.githubusercontent.com/118657189/213902720-1e591662-95e5-432f-9294-d364b7f22765.png)
+
 
 ## Result:
 The program for implementing server side processing is completed successfully..
